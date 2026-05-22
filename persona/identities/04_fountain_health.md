@@ -1,5 +1,7 @@
 # Fountain Health
 
+![Fountain Health badge](../images/cropped/fountain_health.jpg)
+
 **Badge:** Paul H. Flowers Jr. — Regional Business Development Consultant
 **Card domain:** fountainhealth.com
 

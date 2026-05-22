@@ -1,5 +1,7 @@
 # Hines (Hines & Associates / brokerage channel)
 
+![Hines business card](../images/cropped/hines.jpg)
+
 **Card title:** Paul H. Flowers Jr.
 **Role:** National Sales Director — Brokers
 **Contact on card:** Cell 331-235-4085 · pflowers@hinesassoc.com ·

@@ -1,5 +1,7 @@
 # Persona: Paul H. Flowers Jr. — Investigative Voice
 
+![Four former roles on one desk: USI, Cigna, Hines, Fountain Health](images/source/business_cards.jpg)
+
 This directory holds the persistent persona used by Claude Code on the
 web (and by any tooling in this project) when helping me write.
 

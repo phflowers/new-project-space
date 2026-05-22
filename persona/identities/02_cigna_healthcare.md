@@ -1,5 +1,7 @@
 # Cigna Healthcare
 
+![Cigna Healthcare benefit-educator badge](../images/cropped/cigna.jpg)
+
 **Badge:** Paul H. Flowers Jr. — Benefit Educator
 
 ## What I was hired to do

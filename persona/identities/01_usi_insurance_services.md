@@ -1,5 +1,7 @@
 # USI Insurance Services
 
+![USI business card](../images/cropped/usi.jpg)
+
 **Card title:** Paul H. Flowers Jr., CITRMS, M.S.
 **Role:** Vice President, Select Employee Benefits Consultant
 **Office:** 2021 Spring Rd, Suite 100, Oak Brook, IL 60523
