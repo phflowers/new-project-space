@@ -60,11 +60,21 @@ def detect_card_boxes(img: Image.Image) -> list[tuple[int, int, int, int]]:
             continue
         candidates.append((xs.start, ys.start, xs.stop, ys.stop))
 
-    # Keep the four largest, then sort by (top, left).
+    # Keep the four largest.
     candidates.sort(key=lambda b: (b[2] - b[0]) * (b[3] - b[1]), reverse=True)
     top4 = candidates[:4]
-    top4.sort(key=lambda b: (b[1], b[0]))
-    return top4
+
+    # Cluster into two rows by the vertical center, then sort each row
+    # left-to-right. Reading order on the source photo is:
+    #   row 1: USI (left)            , Cigna (right)
+    #   row 2: Hines (left)          , Fountain Health (right)
+    # Strict sort by `top` alone gets this wrong when a smaller item in
+    # the right column starts above the larger item in the left column.
+    top4.sort(key=lambda b: (b[1] + b[3]) / 2)
+    row1, row2 = top4[:2], top4[2:]
+    row1.sort(key=lambda b: b[0])
+    row2.sort(key=lambda b: b[0])
+    return row1 + row2
 
 
 def load_manual_boxes(path: Path) -> list[tuple[int, int, int, int]] | None:
