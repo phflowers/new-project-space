@@ -1,8 +1,8 @@
 **FOR IMMEDIATE RELEASE**
 
-# As BUCA Carriers and Consolidator Brokers Roll Out 2027 Renewals, a Fiduciary Advisor Asks Who Is Checking the Math in Washington
+# As BUCA Carriers and Big-Box Brokers Roll Out 2027 Renewals, Who Is Checking the Math in Washington?
 
-## Paul H. Flowers Jr. — one of the first ten Validation Institute–certified Fiduciary Advisors in the United States and the first African American to earn the designation — calls the current renewal cycle "a field day for the incumbents" and urges CFOs and HR leaders to demand independent claims audits before signing.
+## Fiduciary Advisor Paul H. Flowers Jr. calls the current renewal cycle "a field day" and urges CFOs to demand independent claims audits before signing.
 
 **OAK BROOK, IL — [DATE], 2026 —** As Blue Cross, UnitedHealthcare, Cigna and Aetna — collectively known inside the employee-benefits industry as the "BUCA" carriers — send 2027 renewal quotes to America's employers, and as the largest consolidator brokerages pass those quotes through to their clients with limited resistance, longtime benefits insider Paul H. Flowers Jr. is publicly challenging the process and the vacuum of federal oversight surrounding it.
 

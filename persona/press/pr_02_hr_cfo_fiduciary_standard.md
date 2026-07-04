@@ -1,8 +1,8 @@
 **FOR IMMEDIATE RELEASE**
 
-# You Wouldn't Let a Convicted Predator Near Your Children. So Why Do HR Leaders Still Hand Adjudicated Bad Actors the Keys to Their Employees' Healthcare?
+# You Wouldn't Let Epstein Near Your Kids. Why Let Adjudicated Bad Actors Near Your Employees' Healthcare?
 
-## A fiduciary benefits advisor argues that the standard American parents apply to who watches their children is the same standard ERISA already requires of plan sponsors selecting benefit vendors — and, on the public court record, is not the standard those sponsors are applying.
+## A fiduciary benefits advisor says the standard parents apply to babysitters is the same standard ERISA requires of plan sponsors — and isn't being met.
 
 **OAK BROOK, IL — [DATE], 2026 —** Fiduciary benefits advisor Paul H. Flowers Jr., one of the first ten Validation Institute–certified Fiduciary Advisors in the United States, is issuing a direct challenge to human resources professionals and chief financial officers on what he calls "the most quietly damaging double standard in corporate America."
 
